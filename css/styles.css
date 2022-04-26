@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Signika&display=swap");
 
 body {
-    background-image: url("/gradient.jpg");
+    background-image: url("gradient.jpg");
     background-color: #FAFFAF;
     color: #000000;
     font-family: Signika, sans-serif;
