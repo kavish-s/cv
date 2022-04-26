@@ -1,0 +1,36 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Signika&display=swap");
+
+body {
+    background-image: url("/gradient.jpg");
+    background-color: #FAFFAF;
+    color: #000000;
+    font-family: Signika, sans-serif;
+    border: 5px solid #FFE98A;
+    border-radius: 10px;
+    }
+
+hr {
+    border-style: none;
+    border-top: 10px groove #950101;
+    width: 50%;
+}
+
+h1, h2, h3 {
+    color: #3D0000;
+    font-family: Signika, sans-serif;
+}
+
+.table_center {
+    border-spacing: 30px;
+    margin: auto;
+}
+
+.text_align {
+    text-align: center;
+}
+
+.photo_resize1 {
+    max-height: 200px;
+    width: auto;
+}
